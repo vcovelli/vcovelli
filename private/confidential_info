@@ -1,0 +1,44 @@
+
+10/27/24 -
+
+chmod 700:
+
+	7 for the owner: Grants read, write, and execute permissions.
+	0 for the group and others: Removes all permissions.
+	In effect, it sets the following permissions:
+
+	Owner: Can read, write, and execute.
+	Group: No permissions.
+	Others: No permissions.	
+
+chmod 600:
+
+	6 in 600 (for the owner): Grants read and write permissions.
+	0 in 600 (for the group and others): Removes all permissions.
+	In effect, chmod 600 filename sets the following permissions:
+
+	Owner (user who created the file): Can read and write.
+	Group: No permissions.
+	Others: No permissions.
+
+	w/r only for file 
+
+rm -ri directory_name:
+
+	to delete directory and all of its content with it asking for confirmation.
+
+mv:
+
+	to move a directory or file.
+
+nano:
+
+	to enter file editor
+
+find:
+
+	[find ~ -type f -name "confidential_info"]
+
+	Search within your home directory (~).
+	Look for files (-type f).
+	Match the name confidential_info.
