@@ -1,8 +1,10 @@
 # Vincent Covelli
 
-I build web applications, data pipelines and tools that simplify business workflows.
+Enterprise IT • Infrastructure • Automation • Software
 
-[Portfolio](https://vcovelli.github.io/vc-portfolio/) · [LinkedIn](https://www.linkedin.com/in/vincent-covelli/)
+I build systems that connect software, infrastructure, automation, and real-world operations. My projects span personal infrastructure, AI-assisted applications, data engineering, financial analytics, and operational tooling.
+
+[LinkedIn](https://www.linkedin.com/in/vincent-covelli/)
 
 Selected projects:
 
