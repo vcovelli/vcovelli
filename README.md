@@ -8,6 +8,7 @@ I build systems that connect software, infrastructure, automation, and real-worl
 
 Selected projects:
 
+- [jarvis](https://github.com/vcovelli/jarvis) — a self-hosted personal operating system combining lifestyle tracking, financial data, AI assistance, automation, and infrastructure management.
 - [Supply-chain dashboard](https://github.com/vcovelli/sc-dash) — operational data, dashboards and workflow tools built with Django and Next.js.
 - [Stock tracker](https://github.com/vcovelli/stock-tracker) — a market-data pipeline using Kafka and PostgreSQL/TimescaleDB.
 - [Healthcare scheduling](https://github.com/vcovelli/healthcare-frontend) — a React interface backed by a [Django API](https://github.com/vcovelli/healthcare-backend).
